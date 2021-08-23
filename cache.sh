@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 #!/bin/sh
 #clean-cache
 sudo apt-get autoclean
